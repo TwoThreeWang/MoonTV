@@ -81,10 +81,6 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
-    "guangsu": {
-      "api": "https://api.guangsuapi.com/api.php/provide/vod",
-      "name": "光速资源"
-    },
     "ffzy": {
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "name": "非凡资源"
